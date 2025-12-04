@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background: #f0f2f5;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  background: #4a90e2;
+  color: white;
+  padding: 2rem 1rem;
+}
+
+header h1 {
+  margin: 0 0 0.5rem 0;
+}
+
+header p {
+  margin: 0;
+  font-weight: 300;
+}
+
+main {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.selectors {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.selectors select {
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.subjects-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Container holding both dropdowns */
+.selector-section {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap; /* allows wrapping on small screens */
+  margin: 20px 0;
+}
+
+/* Style for each select box */
+.selector-section select {
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  min-width: 200px;
+  cursor: pointer;
+}
+
+/* Extra responsive behavior */
+@media (max-width: 600px) {
+  .selector-section {
+    flex-direction: column; /* stack them vertically */
+    align-items: center;
+    gap: 10px;
+  }
+
+  .selector-section select {
+    width: 90%; /* full width on mobile */
+    font-size: 1rem;
+  }
+}
+
+.subject-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+}
+
+.subject-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+.subject-card h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #4a90e2;
+}
+
+.subject-card a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  text-decoration: none;
+  color: #fff;
+  background: #4a90e2;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+.subject-card a:hover {
+  background: #357ab8;
+}
+
+.no-subjects {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #666;
+  padding: 2rem 0;
+}
+
+@media (max-width: 600px) {
+  .selectors {
+    flex-direction: column;
+    align-items: center;
+  }
+}
