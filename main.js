@@ -1,51 +1,83 @@
 const SUBJECT_PAGES = {
   basic_section: {
     Basic1: {
-      "Physical & Health Education":
+      "PHYSICAL & HEALTH EDUCATION":
         "https://eaglecrestwood.modebills.com/physical-and-health-education-basic1/",
-      "Prevocational Studies":
+      "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/prevocational-studies-basic/",
+      "ENGLISH GRAMMAR":
+        "https://eaglecrestwood.modebills.com/english-grammar-basc-1/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-1/",
     },
     Basic2: {
-      "Physical & Health Education":
+      "PHYSICAL & HEALTH EDUCATION":
         "https://eaglecrestwood.modebills.com/physical-and-health-education-basic2/",
-      "Prevocational Studies":
+      "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/prevocational-studies-basic2/",
+      "ENGLISH GRAMMAR":
+        "https://eaglecrestwood.modebills.com/english-grammar-basic-2/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-2/",
     },
     Basic3: {
-      "Physical & Health Education":
+      "PHYSICAL & HEALTH EDUCATION":
         "https://eaglecrestwood.modebills.com/physical-and-health-education-basic3/",
-      "Prevocational Studies":
+      "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/prevocational-studies-basic3/",
+      "ENGLISH GRAMMAR":
+        "https://eaglecrestwood.modebills.com/english-grammar-basic-3/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-3/",
     },
     Basic4: {
-      "Physical & Health Education":
+      "PHYSICAL & HEALTH EDUCATION":
         "https://eaglecrestwood.modebills.com/physical-and-health-education-basic4/",
-      "Prevocational Studies":
+      "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/prevocational-studies-basic4/",
+      "ENGLISH GRAMMAR":
+        "https://eaglecrestwood.modebills.com/english-grammar-basic-4/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-4/",
     },
     Basic5: {
-      "Physical & Health Education":
+      "PHYSICAL & HEALTH EDUCATION":
         "https://eaglecrestwood.modebills.com/physical-and-health-education-basic5/",
-      "Prevocational Studies":
+      "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/prevocational-aptitude-basic5/",
+      "ENGLISH GRAMMAR":
+        "https://eaglecrestwood.modebills.com/english-grammar-basic-5-2/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-5/",
     },
   },
   jss_section: {
     JSS1: {
-      History: "https://eaglecrestwood.modebills.com/history-jss1/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-jss1/",
       "ENGLISH LANGUAGE":
         "https://eaglecrestwood.modebills.com/english-language-jss1/",
+      "BASIC SCIENCE":
+        "https://eaglecrestwood.modebills.com/basic-science-jss1/",
+      "SOCIAL STUDIES":
+        "https://eaglecrestwood.modebills.com/social-studies-jss1/",
     },
     JSS2: {
-      History: "https://eaglecrestwood.modebills.com/history-jss2/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-jss2/",
       "ENGLISH LANGUAGE":
         "https://eaglecrestwood.modebills.com/english-language-jss2-2/",
+      "BASIC SCIENCE":
+        "https://eaglecrestwood.modebills.com/basic-science-jss2/",
+      "SOCIAL STUDIES":
+        "https://eaglecrestwood.modebills.com/social-studies-jss2/",
     },
     JSS3: {
-      History: "https://eaglecrestwood.modebills.com/history-jss3/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-jss3/",
       "ENGLISH LANGUAGE":
         "https://eaglecrestwood.modebills.com/english-language-jss3/",
+      "BASIC SCIENCE":
+        "https://eaglecrestwood.modebills.com/basic-science-jss3/",
+      "SOCIAL STUDIES":
+        "https://eaglecrestwood.modebills.com/social-studies-jss3/",
     },
   },
   sss_section: {
