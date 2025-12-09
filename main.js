@@ -9,6 +9,9 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/english-grammar-basc-1/",
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-1/",
+
+      "VERBAL REASONING":
+        "https://eaglecrestwood.modebills.com/verbal-reasoning-basic1/",
     },
     Basic2: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -20,6 +23,8 @@ const SUBJECT_PAGES = {
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-2/",
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic-2/",
+      "VERBAL REASONING":
+        "https://eaglecrestwood.modebills.com/verbal-reasoning-basic2/",
     },
     Basic3: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -31,6 +36,8 @@ const SUBJECT_PAGES = {
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-3/",
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic-3/",
+      "VERBAL REASONING":
+        "https://eaglecrestwood.modebills.com/verbal-reaoning-basic3/",
     },
     Basic4: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -42,6 +49,8 @@ const SUBJECT_PAGES = {
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-4/",
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic-4/",
+      "VERBAL REASONING":
+        "https://eaglecrestwood.modebills.com/verbal-reasoning-basic4/",
     },
     Basic5: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -53,6 +62,8 @@ const SUBJECT_PAGES = {
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-5/",
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic-5/",
+      "VERBAL REASONING":
+        "https://eaglecrestwood.modebills.com/verbal-reasoning-basic5/",
     },
   },
   jss_section: {
