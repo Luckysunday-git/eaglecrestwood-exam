@@ -19,6 +19,7 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/english-grammar-basic-2/",
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-2/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-basic-2/",
     },
     Basic3: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -29,6 +30,7 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/english-grammar-basic-3/",
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-3/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-basic-3/",
     },
     Basic4: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -39,6 +41,7 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/english-grammar-basic-4/",
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-4/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-basic-4/",
     },
     Basic5: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -49,6 +52,7 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/english-grammar-basic-5-2/",
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/christian-religious-studies-basic-5/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-basic-5/",
     },
   },
   jss_section: {
@@ -60,6 +64,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/basic-science-jss1/",
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/social-studies-jss1/",
+      "CIVIC EDUCATION":
+        "https://eaglecrestwood.modebills.com/civic-education-jss1/",
     },
     JSS2: {
       HISTORY: "https://eaglecrestwood.modebills.com/history-jss2/",
@@ -69,6 +75,9 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/basic-science-jss2/",
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/social-studies-jss2/",
+
+      "CIVIC EDUCATION":
+        "https://eaglecrestwood.modebills.com/civic-education-jss2/",
     },
     JSS3: {
       HISTORY: "https://eaglecrestwood.modebills.com/history-jss3/",
@@ -78,6 +87,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/basic-science-jss3/",
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/social-studies-jss3/",
+      "CIVIC EDUCATION":
+        "https://eaglecrestwood.modebills.com/civic-education-jss3/",
     },
   },
   sss_section: {
