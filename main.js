@@ -126,7 +126,8 @@ const SUBJECT_PAGES = {
 
       "PHYSICAL & HEALTH EDUCATION":
         "https://eaglecrestwood.modebills.com/physical-and-health-education-jss3/",
-      "AGRICULTURAL SCIENCE": "",
+      "AGRICULTURAL SCIENCE":
+        "https://eaglecrestwood.modebills.com/agricultural-science-jss3/",
       "CODING & ROBOTICS":
         "https://eaglecrestwood.modebills.com/coding-robotics-jss3/",
     },
