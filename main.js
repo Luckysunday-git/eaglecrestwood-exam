@@ -106,7 +106,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/civic-education-jss2/",
       "PHYSICAL & HEALTH EDUCATION": "",
       "AGRICULTURAL SCIENCE": "",
-      "CODING & ROBOTICS": "",
+      "CODING & ROBOTICS":
+        "https://eaglecrestwood.modebills.com/coding-robotics-jss2/",
     },
     JSS3: {
       HISTORY: "https://eaglecrestwood.modebills.com/history-jss3/",
@@ -121,7 +122,8 @@ const SUBJECT_PAGES = {
 
       "PHYSICAL & HEALTH EDUCATION": "",
       "AGRICULTURAL SCIENCE": "",
-      "CODING & ROBOTICS": "",
+      "CODING & ROBOTICS":
+        "https://eaglecrestwood.modebills.com/coding-robotics-jss3/",
     },
   },
   sss_section: {
