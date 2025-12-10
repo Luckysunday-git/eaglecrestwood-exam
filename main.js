@@ -88,7 +88,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/social-studies-jss1/",
       "CIVIC EDUCATION":
         "https://eaglecrestwood.modebills.com/civic-education-jss1/",
-      "PHYSICAL & HEALTH EDUCATION": "",
+      "PHYSICAL & HEALTH EDUCATION":
+        "https://eaglecrestwood.modebills.com/physical-health-education-jss1/",
       "AGRICULTURAL SCIENCE": "",
       "CODING & ROBOTICS":
         "https://eaglecrestwood.modebills.com/coding-robotics-jss1/",
@@ -104,7 +105,8 @@ const SUBJECT_PAGES = {
 
       "CIVIC EDUCATION":
         "https://eaglecrestwood.modebills.com/civic-education-jss2/",
-      "PHYSICAL & HEALTH EDUCATION": "",
+      "PHYSICAL & HEALTH EDUCATION":
+        "https://eaglecrestwood.modebills.com/physical-and-health-education-jss2/",
       "AGRICULTURAL SCIENCE": "",
       "CODING & ROBOTICS":
         "https://eaglecrestwood.modebills.com/coding-robotics-jss2/",
@@ -120,7 +122,8 @@ const SUBJECT_PAGES = {
       "CIVIC EDUCATION":
         "https://eaglecrestwood.modebills.com/civic-education-jss3/",
 
-      "PHYSICAL & HEALTH EDUCATION": "",
+      "PHYSICAL & HEALTH EDUCATION":
+        "https://eaglecrestwood.modebills.com/physical-and-health-education-jss3/",
       "AGRICULTURAL SCIENCE": "",
       "CODING & ROBOTICS":
         "https://eaglecrestwood.modebills.com/coding-robotics-jss3/",
