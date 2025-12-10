@@ -12,6 +12,9 @@ const SUBJECT_PAGES = {
 
       "VERBAL REASONING":
         "https://eaglecrestwood.modebills.com/verbal-reasoning-basic1/",
+
+      "CODING & ROBOTICS":
+        "https://eaglecrestwood.modebills.com/coding-robotics-basic-1-2/",
     },
     Basic2: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -25,6 +28,8 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic-2/",
       "VERBAL REASONING":
         "https://eaglecrestwood.modebills.com/verbal-reasoning-basic2/",
+      "CODING & ROBOTICS":
+        "https://eaglecrestwood.modebills.com/coding-robotics-basic-2/",
     },
     Basic3: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -38,6 +43,8 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic-3/",
       "VERBAL REASONING":
         "https://eaglecrestwood.modebills.com/verbal-reaoning-basic3/",
+      "CODING & ROBOTICS":
+        "https://eaglecrestwood.modebills.com/coding-robotics-basic-3/",
     },
     Basic4: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -51,6 +58,8 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic-4/",
       "VERBAL REASONING":
         "https://eaglecrestwood.modebills.com/verbal-reasoning-basic4/",
+      "CODING & ROBOTICS":
+        "https://eaglecrestwood.modebills.com/coding-robotics-basic-4/",
     },
     Basic5: {
       "PHYSICAL & HEALTH EDUCATION":
@@ -64,6 +73,8 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic-5/",
       "VERBAL REASONING":
         "https://eaglecrestwood.modebills.com/verbal-reasoning-basic5/",
+      "CODING & ROBOTICS":
+        "https://eaglecrestwood.modebills.com/coding-robotics-basic-5/",
     },
   },
   jss_section: {
@@ -77,6 +88,10 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/social-studies-jss1/",
       "CIVIC EDUCATION":
         "https://eaglecrestwood.modebills.com/civic-education-jss1/",
+      "PHYSICAL & HEALTH EDUCATION": "",
+      "AGRICULTURAL SCIENCE": "",
+      "CODING & ROBOTICS":
+        "https://eaglecrestwood.modebills.com/coding-robotics-jss1/",
     },
     JSS2: {
       HISTORY: "https://eaglecrestwood.modebills.com/history-jss2/",
@@ -89,6 +104,9 @@ const SUBJECT_PAGES = {
 
       "CIVIC EDUCATION":
         "https://eaglecrestwood.modebills.com/civic-education-jss2/",
+      "PHYSICAL & HEALTH EDUCATION": "",
+      "AGRICULTURAL SCIENCE": "",
+      "CODING & ROBOTICS": "",
     },
     JSS3: {
       HISTORY: "https://eaglecrestwood.modebills.com/history-jss3/",
@@ -100,6 +118,10 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/social-studies-jss3/",
       "CIVIC EDUCATION":
         "https://eaglecrestwood.modebills.com/civic-education-jss3/",
+
+      "PHYSICAL & HEALTH EDUCATION": "",
+      "AGRICULTURAL SCIENCE": "",
+      "CODING & ROBOTICS": "",
     },
   },
   sss_section: {
