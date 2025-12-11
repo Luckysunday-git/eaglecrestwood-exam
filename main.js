@@ -94,6 +94,10 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/agricultural-science-jss1/",
       "CODING & ROBOTICS":
         "https://eaglecrestwood.modebills.com/coding-robotics-jss1/",
+      "LITERATURE-IN-ENGLISH":
+        "https://eaglecrestwood.modebills.com/literature-in-english-jss1/",
+      "COMPUTER STUDIES":
+        "https://eaglecrestwood.modebills.com/computer-science-jss1/",
     },
     JSS2: {
       HISTORY: "https://eaglecrestwood.modebills.com/history-jss2/",
@@ -112,6 +116,10 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/agricultural-science-jss2/",
       "CODING & ROBOTICS":
         "https://eaglecrestwood.modebills.com/coding-robotics-jss2/",
+      "LITERATURE-IN-ENGLISH":
+        "https://eaglecrestwood.modebills.com/literature-in-english-jss2/",
+      "COMPUTER SCIENCE":
+        "https://eaglecrestwood.modebills.com/computer-science-jss2/",
     },
     JSS3: {
       HISTORY: "https://eaglecrestwood.modebills.com/history-jss3/",
@@ -130,6 +138,10 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/agricultural-science-jss3/",
       "CODING & ROBOTICS":
         "https://eaglecrestwood.modebills.com/coding-robotics-jss3/",
+      "LITERATURE-IN-ENGLISH":
+        "https://eaglecrestwood.modebills.com/literature-in-english-jss3/",
+      "COMPUTER SCIENCE":
+        "https://eaglecrestwood.modebills.com/computer-science-jss3/",
     },
   },
   sss_section: {
