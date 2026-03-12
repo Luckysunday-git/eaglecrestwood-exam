@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Inter", "Roboto", sans-serif;
   margin: 0;
   background: #f0f2f5;
   color: #333;
@@ -32,6 +32,7 @@ main {
 }
 
 .selectors {
+  font-family: "Inter", "Roboto", sans-serif;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -40,6 +41,7 @@ main {
 }
 
 .selectors select {
+  font-family: "Inter", "Roboto", sans-serif;
   padding: 0.6rem 1rem;
   border-radius: 8px;
   border: 1px solid #ccc;
@@ -55,6 +57,7 @@ main {
 
 /* Container holding both dropdowns */
 .selector-section {
+  font-family: "Inter", "Roboto", sans-serif;
   display: flex;
   justify-content: center;
   gap: 15px;
