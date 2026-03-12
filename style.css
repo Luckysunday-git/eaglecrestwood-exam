@@ -57,7 +57,6 @@ main {
 
 /* Container holding both dropdowns */
 .selector-section {
-  font-family: "Inter", "Roboto", sans-serif;
   display: flex;
   justify-content: center;
   gap: 15px;

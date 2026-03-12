@@ -4,26 +4,40 @@ const SUBJECT_PAGES = {
       "VOCATIONAL APTITUDE":
         "https://eaglecrestwood.modebills.com/vocational-aptitude-basic-1/",
       ICT: "https://eaglecrestwood.modebills.com/ict-basic1/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/crs-basic1/",
     },
     Basic2: {
       "VOCATIONAL APTITUDE":
         "https://eaglecrestwood.modebills.com/vocational-aptitude-basic1-2/",
       ICT: "https://eaglecrestwood.modebills.com/ict-basic2/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-basic2/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/crs-basic2/",
     },
     Basic3: {
       "VOCATIONAL APTITUDE":
         "https://eaglecrestwood.modebills.com/vocational-apt-basic3/",
       ICT: "https://eaglecrestwood.modebills.com/ict-basic3/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-basic3/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/crs-basic3/",
     },
     Basic4: {
       "VOCATIONAL APTITUDE":
         "https://eaglecrestwood.modebills.com/vocational-apt-basic4/",
       ICT: "https://eaglecrestwood.modebills.com/ict-basic4/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-basic4/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/crs-basic4/",
     },
     Basic5: {
       "VOCATIONAL APTITUDE":
         "https://eaglecrestwood.modebills.com/vocational-apt-basic5/",
       ICT: "https://eaglecrestwood.modebills.com/ict-basic5/",
+      HISTORY: "https://eaglecrestwood.modebills.com/history-basic5/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/crs-basic5/",
     },
   },
   "jss section": {
@@ -33,6 +47,7 @@ const SUBJECT_PAGES = {
       "HOME ECONOMICS": "https://eaglecrestwood.modebills.com/econs-jss1/",
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/socialstudies-jss1/",
+      HISTORY: "https://eaglecrestwood.modebills.com/hist-jss1/",
     },
     JSS2: {
       "CULTURAL AND CREATIVE ARTS":
@@ -40,6 +55,7 @@ const SUBJECT_PAGES = {
       "HOME ECONOMICS": "https://eaglecrestwood.modebills.com/homecons-jss3/",
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/socialstudies-jss2/",
+      HISTORY: "https://eaglecrestwood.modebills.com/hist-jss2/",
     },
     JSS3: {
       "CULTURAL AND CREATIVE ARTS":
@@ -47,6 +63,7 @@ const SUBJECT_PAGES = {
       "HOME ECONOMICS": "https://eaglecrestwood.modebills.com/honecons-jss3/",
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/socialstudies-jss3/",
+      HISTORY: "https://eaglecrestwood.modebills.com/hist-jss3/",
     },
   },
   "sss section": {
