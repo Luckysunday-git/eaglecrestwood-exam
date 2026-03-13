@@ -48,6 +48,8 @@ const SUBJECT_PAGES = {
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/socialstudies-jss1/",
       HISTORY: "https://eaglecrestwood.modebills.com/hist-jss1/",
+      "AGRICULTURAL SCIENCE":
+        "https://eaglecrestwood.modebills.com/agric-jss1/",
     },
     JSS2: {
       "CULTURAL AND CREATIVE ARTS":
@@ -56,6 +58,8 @@ const SUBJECT_PAGES = {
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/socialstudies-jss2/",
       HISTORY: "https://eaglecrestwood.modebills.com/hist-jss2/",
+      "AGRICULTURAL SCIENCE":
+        "https://eaglecrestwood.modebills.com/agric-jss2/",
     },
     JSS3: {
       "CULTURAL AND CREATIVE ARTS":
@@ -64,6 +68,8 @@ const SUBJECT_PAGES = {
       "SOCIAL STUDIES":
         "https://eaglecrestwood.modebills.com/socialstudies-jss3/",
       HISTORY: "https://eaglecrestwood.modebills.com/hist-jss3/",
+      "AGRICULTURAL SCIENCE":
+        "https://eaglecrestwood.modebills.com/agric-jss3/",
     },
   },
   "sss section": {
