@@ -73,6 +73,7 @@ const SUBJECT_PAGES = {
       "AGRICULTURAL SCIENCE":
         "https://eaglecrestwood.modebills.com/agric-jss2/",
       "ENGLISH LANGUAGE": "https://eaglecrestwood.modebills.com/eng-jss2/",
+      MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-jss2/",
     },
     JSS3: {
       "CULTURAL AND CREATIVE ARTS":
@@ -84,6 +85,7 @@ const SUBJECT_PAGES = {
       "AGRICULTURAL SCIENCE":
         "https://eaglecrestwood.modebills.com/agric-jss3/",
       "ENGLISH LANGUAGE": "https://eaglecrestwood.modebills.com/eng-jss3/",
+      MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-jss2/",
     },
   },
   "sss section": {
