@@ -15,6 +15,7 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic2/",
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/crs-basic2/",
+      "ENGLISH GRAMMAR": "https://eaglecrestwood.modebills.com/eng-basic2/",
     },
     Basic3: {
       "VOCATIONAL APTITUDE":
@@ -23,6 +24,7 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/history-basic3/",
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/crs-basic3/",
+      "ENGLISH GRAMMAR": "https://eaglecrestwood.modebills.com/eng-basic3/",
     },
     Basic4: {
       "VOCATIONAL APTITUDE":
