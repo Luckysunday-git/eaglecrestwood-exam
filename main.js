@@ -10,6 +10,8 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic1/",
       "NATIONAL VALUES":
         "https://eaglecrestwood.modebills.com/national-val-basic1/",
+      "Cultural and Creative Arts - BASIC1":
+        "https://eaglecrestwood.modebills.com/cca-basic1/",
     },
     Basic2: {
       "VOCATIONAL APTITUDE":
@@ -22,6 +24,8 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic2/",
       "NATIONAL VALUES":
         "https://eaglecrestwood.modebills.com/national-val-basic2/",
+      "Cultural and Creative Arts - BASIC2":
+        "https://eaglecrestwood.modebills.com/cca-basic2/",
     },
     Basic3: {
       "VOCATIONAL APTITUDE":
@@ -34,6 +38,8 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic3/",
       "NATIONAL VALUES":
         "https://eaglecrestwood.modebills.com/national-val-basic3/",
+      "Cultural and Creative Arts - BASIC3":
+        "https://eaglecrestwood.modebills.com/cca-basic3/",
     },
     Basic4: {
       "VOCATIONAL APTITUDE":
@@ -46,6 +52,8 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic4/",
       "NATIONAL VALUES":
         "https://eaglecrestwood.modebills.com/national-val-basic4/",
+      "Cultural and Creative Arts - BASIC4":
+        "https://eaglecrestwood.modebills.com/cca-basic4/",
     },
     Basic5: {
       "VOCATIONAL APTITUDE":
@@ -58,6 +66,8 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic5/",
       "NATIONAL VALUES":
         "https://eaglecrestwood.modebills.com/national-val-basic5/",
+      "Cultural and Creative Arts - BASIC5":
+        "https://eaglecrestwood.modebills.com/cca-basic5/",
     },
   },
   "jss section": {
