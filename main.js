@@ -55,6 +55,7 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/hist-jss1/",
       "AGRICULTURAL SCIENCE":
         "https://eaglecrestwood.modebills.com/agric-jss1/",
+      "ENGLISH LANGUAGE": "https://eaglecrestwood.modebills.com/eng-jss1/",
     },
     JSS2: {
       "CULTURAL AND CREATIVE ARTS":
@@ -65,6 +66,7 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/hist-jss2/",
       "AGRICULTURAL SCIENCE":
         "https://eaglecrestwood.modebills.com/agric-jss2/",
+      "ENGLISH LANGUAGE": "https://eaglecrestwood.modebills.com/eng-jss2/",
     },
     JSS3: {
       "CULTURAL AND CREATIVE ARTS":
@@ -75,6 +77,7 @@ const SUBJECT_PAGES = {
       HISTORY: "https://eaglecrestwood.modebills.com/hist-jss3/",
       "AGRICULTURAL SCIENCE":
         "https://eaglecrestwood.modebills.com/agric-jss3/",
+      "ENGLISH LANGUAGE": "https://eaglecrestwood.modebills.com/eng-jss3/",
     },
   },
   "sss section": {
