@@ -6,6 +6,7 @@ const SUBJECT_PAGES = {
       ICT: "https://eaglecrestwood.modebills.com/ict-basic1/",
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/crs-basic1/",
+      "ENGLISH GRAMMAR": "https://eaglecrestwood.modebills.com/eng-basic1/",
     },
     Basic2: {
       "VOCATIONAL APTITUDE":
