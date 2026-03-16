@@ -61,6 +61,7 @@ const SUBJECT_PAGES = {
       "AGRICULTURAL SCIENCE":
         "https://eaglecrestwood.modebills.com/agric-jss1/",
       "ENGLISH LANGUAGE": "https://eaglecrestwood.modebills.com/eng-jss1/",
+      MATHEMATICS: "https://eaglecrestwood.modebills.com/math-jss1/",
     },
     JSS2: {
       "CULTURAL AND CREATIVE ARTS":
