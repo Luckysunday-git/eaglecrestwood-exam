@@ -8,6 +8,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/crs-basic1/",
       "ENGLISH GRAMMAR": "https://eaglecrestwood.modebills.com/eng-basic1/",
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic1/",
+      "NATIONAL VALUES":
+        "https://eaglecrestwood.modebills.com/national-val-basic1/",
     },
     Basic2: {
       "VOCATIONAL APTITUDE":
@@ -18,6 +20,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/crs-basic2/",
       "ENGLISH GRAMMAR": "https://eaglecrestwood.modebills.com/eng-basic2/",
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic2/",
+      "NATIONAL VALUES":
+        "https://eaglecrestwood.modebills.com/national-val-basic2/",
     },
     Basic3: {
       "VOCATIONAL APTITUDE":
@@ -28,6 +32,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/crs-basic3/",
       "ENGLISH GRAMMAR": "https://eaglecrestwood.modebills.com/eng-basic3/",
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic3/",
+      "NATIONAL VALUES":
+        "https://eaglecrestwood.modebills.com/national-val-basic3/",
     },
     Basic4: {
       "VOCATIONAL APTITUDE":
@@ -38,6 +44,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/crs-basic4/",
       "ENGLISH GRAMMAR": "https://eaglecrestwood.modebills.com/eng-basic4/",
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic4/",
+      "NATIONAL VALUES":
+        "https://eaglecrestwood.modebills.com/national-val-basic4/",
     },
     Basic5: {
       "VOCATIONAL APTITUDE":
@@ -48,6 +56,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/crs-basic5/",
       "ENGLISH STUDIES": "https://eaglecrestwood.modebills.com/eng-basic5/",
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic5/",
+      "NATIONAL VALUES":
+        "https://eaglecrestwood.modebills.com/national-val-basic5/",
     },
   },
   "jss section": {
