@@ -87,6 +87,7 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/math-jss1/",
       "BASIC SCIENCE":
         "https://eaglecrestwood.modebills.com/basicscience-jss1/",
+      "COMPUTER SCIENCE": "https://eaglecrestwood.modebills.com/comp-jss1/",
     },
     JSS2: {
       "CULTURAL AND CREATIVE ARTS":
@@ -101,6 +102,7 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-jss2/",
       "BASIC SCIENCE":
         "https://eaglecrestwood.modebills.com/basicscience-jss2/",
+      "COMPUTER SCIENCE": "https://eaglecrestwood.modebills.com/comp-jss2/",
     },
     JSS3: {
       "CULTURAL AND CREATIVE ARTS":
@@ -115,6 +117,7 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-jss2/",
       "BASIC SCIENCE":
         "https://eaglecrestwood.modebills.com/basic-science-jss3-2/",
+      "COMPUTER SCIENCE": "https://eaglecrestwood.modebills.com/comp-jss3/",
     },
   },
   "sss section": {
