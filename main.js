@@ -126,6 +126,7 @@ const SUBJECT_PAGES = {
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/crs-jss2/",
       "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss2/",
+      "P.H.E": "https://eaglecrestwood.modebills.com/phe-jss2/",
     },
     JSS3: {
       "CULTURAL AND CREATIVE ARTS":
@@ -144,7 +145,7 @@ const SUBJECT_PAGES = {
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/crs-jss3/",
       "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss3/",
-      "P.H.E": "https://eaglecrestwood.modebills.com/phe-jss2/",
+      "P.H.E": "https://eaglecrestwood.modebills.com/phe-jss3/",
     },
   },
   "sss section": {
