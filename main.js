@@ -104,6 +104,9 @@ const SUBJECT_PAGES = {
       "BASIC SCIENCE":
         "https://eaglecrestwood.modebills.com/basicscience-jss1/",
       "COMPUTER SCIENCE": "https://eaglecrestwood.modebills.com/comp-jss1/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/crs-jss1/",
+      "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss1/",
     },
     JSS2: {
       "CULTURAL AND CREATIVE ARTS":
@@ -119,6 +122,9 @@ const SUBJECT_PAGES = {
       "BASIC SCIENCE":
         "https://eaglecrestwood.modebills.com/basicscience-jss2/",
       "COMPUTER SCIENCE": "https://eaglecrestwood.modebills.com/comp-jss2/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/crs-jss2/",
+      "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss2/",
     },
     JSS3: {
       "CULTURAL AND CREATIVE ARTS":
@@ -134,6 +140,9 @@ const SUBJECT_PAGES = {
       "BASIC SCIENCE":
         "https://eaglecrestwood.modebills.com/basic-science-jss3-2/",
       "COMPUTER SCIENCE": "https://eaglecrestwood.modebills.com/comp-jss3/",
+      "CHRISTIAN RELIGIOUS STUDIES":
+        "https://eaglecrestwood.modebills.com/crs-jss3/",
+      "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss3/",
     },
   },
   "sss section": {
