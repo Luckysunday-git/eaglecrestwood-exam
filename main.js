@@ -16,6 +16,7 @@ const SUBJECT_PAGES = {
       "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/basic-sc-basic1/",
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-basic1/",
+      "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic1/",
     },
     Basic2: {
       "VOCATIONAL APTITUDE":
@@ -35,6 +36,7 @@ const SUBJECT_PAGES = {
       "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/basic-sc-basic2/",
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-voc-basic2/",
+      "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic2/",
     },
     Basic3: {
       "VOCATIONAL APTITUDE":
@@ -53,6 +55,7 @@ const SUBJECT_PAGES = {
       "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/basic-sc-bs3/",
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-voc-basic3/",
+      "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic3/",
     },
     Basic4: {
       "VOCATIONAL APTITUDE":
@@ -70,6 +73,7 @@ const SUBJECT_PAGES = {
       "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/bsc-basic4/",
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-voc-basic4/",
+      "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic4/",
     },
     Basic5: {
       "VOCATIONAL APTITUDE":
@@ -87,6 +91,7 @@ const SUBJECT_PAGES = {
       "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/bsc-basic5-2/",
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-voc-basic5/",
+      "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic5/",
     },
   },
   "jss section": {
@@ -108,6 +113,9 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/crs-jss1/",
       "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss1/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-jss1/",
+      "BUSINESS STUDIES": "https://eaglecrestwood.modebills.com/1913-2/",
+      "BASIC TECHNOLOGY":
+        "https://eaglecrestwood.modebills.com/basic-tech-jss1/",
     },
     JSS2: {
       "CULTURAL AND CREATIVE ARTS":
@@ -127,6 +135,9 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/crs-jss2/",
       "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss2/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-jss2/",
+      "BUSINESS STUDIES": "https://eaglecrestwood.modebills.com/bus-jss2/",
+      "BASIC TECHNOLOGY":
+        "https://eaglecrestwood.modebills.com/basic-tech-jss2/",
     },
     JSS3: {
       "CULTURAL AND CREATIVE ARTS":
@@ -146,6 +157,9 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/crs-jss3/",
       "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss3/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-jss3/",
+      "BUSINESS STUDIES": "https://eaglecrestwood.modebills.com/bus-jss3/",
+      "BASIC TECHNOLOGY":
+        "https://eaglecrestwood.modebills.com/basic-tech-jss3/",
     },
   },
   "sss section": {
