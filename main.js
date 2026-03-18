@@ -13,6 +13,9 @@ const SUBJECT_PAGES = {
       "Cultural and Creative Arts - BASIC1":
         "https://eaglecrestwood.modebills.com/cca-basic1/",
       MUSIC: "https://eaglecrestwood.modebills.com/music-basic1-3/",
+      "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/basic-sc-basic1/",
+      "PREVOCATIONAL STUDIES":
+        "https://eaglecrestwood.modebills.com/pre-basic1/",
     },
     Basic2: {
       "VOCATIONAL APTITUDE":
@@ -25,9 +28,13 @@ const SUBJECT_PAGES = {
       MATHEMATICS: "https://eaglecrestwood.modebills.com/maths-basic2/",
       "NATIONAL VALUES":
         "https://eaglecrestwood.modebills.com/national-val-basic2/",
-      "Cultural and Creative Arts - BASIC2":
+      "Cultural and Creative Arts":
         "https://eaglecrestwood.modebills.com/cca-basic2/",
       MUSIC: "https://eaglecrestwood.modebills.com/music-basic1-3-2/",
+
+      "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/basic-sc-basic2/",
+      "PREVOCATIONAL STUDIES":
+        "https://eaglecrestwood.modebills.com/pre-voc-basic2/",
     },
     Basic3: {
       "VOCATIONAL APTITUDE":
@@ -43,6 +50,9 @@ const SUBJECT_PAGES = {
       "Cultural and Creative Arts - BASIC3":
         "https://eaglecrestwood.modebills.com/cca-basic3/",
       MUSIC: "https://eaglecrestwood.modebills.com/music-basic1-3-3/",
+      "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/basic-sc-bs3/",
+      "PREVOCATIONAL STUDIES":
+        "https://eaglecrestwood.modebills.com/pre-voc-basic3/",
     },
     Basic4: {
       "VOCATIONAL APTITUDE":
@@ -57,6 +67,9 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/national-val-basic4/",
       "Cultural and Creative Arts - BASIC4":
         "https://eaglecrestwood.modebills.com/cca-basic4/",
+      "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/bsc-basic4/",
+      "PREVOCATIONAL STUDIES":
+        "https://eaglecrestwood.modebills.com/pre-voc-basic4/",
     },
     Basic5: {
       "VOCATIONAL APTITUDE":
@@ -71,6 +84,9 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/national-val-basic5/",
       "Cultural and Creative Arts - BASIC5":
         "https://eaglecrestwood.modebills.com/cca-basic5/",
+      "BASIC SCIENCE": "https://eaglecrestwood.modebills.com/bsc-basic5-2/",
+      "PREVOCATIONAL STUDIES":
+        "https://eaglecrestwood.modebills.com/pre-voc-basic5/",
     },
   },
   "jss section": {
