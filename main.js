@@ -107,6 +107,7 @@ const SUBJECT_PAGES = {
       "CHRISTIAN RELIGIOUS STUDIES":
         "https://eaglecrestwood.modebills.com/crs-jss1/",
       "CIVIC EDUCATION": "https://eaglecrestwood.modebills.com/civicedu-jss1/",
+      "P.H.E": "https://eaglecrestwood.modebills.com/phe-jss1/",
     },
     JSS2: {
       "CULTURAL AND CREATIVE ARTS":
