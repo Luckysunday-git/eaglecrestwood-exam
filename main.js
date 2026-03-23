@@ -78,6 +78,8 @@ const SUBJECT_PAGES = {
         "https://eaglecrestwood.modebills.com/pre-voc-basic4/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic4/",
       "VERBAL REASONING": "https://eaglecrestwood.modebills.com/verbal-basic4/",
+      "LITERATURE-IN-ENGLISH":
+        "https://eaglecrestwood.modebills.com/lit-eng-jss1/",
     },
     Basic5: {
       "VOCATIONAL APTITUDE":
