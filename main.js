@@ -17,6 +17,7 @@ const SUBJECT_PAGES = {
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-basic1/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic1/",
+      "VERBAL REASONING": "https://eaglecrestwood.modebills.com/verbal-basic1/",
     },
     Basic2: {
       "VOCATIONAL APTITUDE":
