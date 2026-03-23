@@ -38,6 +38,7 @@ const SUBJECT_PAGES = {
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-voc-basic2/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic2/",
+      "VERBAL REASONING": "https://eaglecrestwood.modebills.com/verbal-basic2/",
     },
     Basic3: {
       "VOCATIONAL APTITUDE":
@@ -57,6 +58,7 @@ const SUBJECT_PAGES = {
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-voc-basic3/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic3/",
+      "VERBAL REASONING": "https://eaglecrestwood.modebills.com/verbal-basic3/",
     },
     Basic4: {
       "VOCATIONAL APTITUDE":
@@ -75,6 +77,7 @@ const SUBJECT_PAGES = {
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-voc-basic4/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic4/",
+      "VERBAL REASONING": "https://eaglecrestwood.modebills.com/verbal-basic4/",
     },
     Basic5: {
       "VOCATIONAL APTITUDE":
@@ -93,6 +96,7 @@ const SUBJECT_PAGES = {
       "PREVOCATIONAL STUDIES":
         "https://eaglecrestwood.modebills.com/pre-voc-basic5/",
       "P.H.E": "https://eaglecrestwood.modebills.com/phe-basic5/",
+      "VERBAL REASONING": "https://eaglecrestwood.modebills.com/verbal-basic5/",
     },
   },
   "jss section": {
